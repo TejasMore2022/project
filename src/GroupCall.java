@@ -5,7 +5,7 @@ public class GroupCall {
 	public static void main(String[] args) {
 
 
-		String st="abcd";
+		String st="abcdpqrs";
 
 		
 
