@@ -4,8 +4,9 @@ public class GroupCall {
 
 	public static void main(String[] args) {
 
-		String st="to local change";
-		
+
+		String st="abcd";
+
 		
 
 	}
