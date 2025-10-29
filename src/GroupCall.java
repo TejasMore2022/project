@@ -4,7 +4,7 @@ public class GroupCall {
 
 	public static void main(String[] args) {
 
-		String st="W";
+		String st="anurag has made thsi chages, inittal was w";
 		
 		
 
