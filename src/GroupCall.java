@@ -4,23 +4,9 @@ public class GroupCall {
 
 	public static void main(String[] args) {
 
-		String st="anurag has made thsi chages, inittal was w, but i am also doign changes
-			but why aer you doign chages";
+		String st="added to see conflicts";
 		
 		
-
-		char st1[]=st.toCharArray();
-
-
-String st2="";
-		for(int i=0;i<st1[i];i++){
-
-		st2=st2+st1[i];
-
-		System.out.println(st2);
-
-
-	}
 
 	}
 }
