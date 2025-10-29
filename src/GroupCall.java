@@ -4,7 +4,7 @@ public class GroupCall {
 
 	public static void main(String[] args) {
 
-		String st="again added to see conflicts";
+		String st="to local change";
 		
 		
 
